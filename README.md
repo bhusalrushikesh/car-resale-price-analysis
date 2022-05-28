@@ -1,14 +1,14 @@
-# Car-resell-price-prediction
+# car-resale-price-analysis
 
 1. Clone git repo
 
-2. Install required python modules 
+2. Install required python modules using given command
 
 ```
 pip install -r req.txt
 ```
 
-3. Download Object file for best model  and paste in the same directory of app.py  : https://drive.google.com/file/d/1BUlz_uJAd6GQakK7Aus0K-VIVnrVlOCI/view?usp=sharing
+3. Download Object file for best model and paste in the same directory of project  : https://drive.google.com/file/d/1BUlz_uJAd6GQakK7Aus0K-VIVnrVlOCI/view?usp=sharing
 
 4. To run project 
 
