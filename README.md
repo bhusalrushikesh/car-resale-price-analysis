@@ -1,6 +1,6 @@
 # car-resale-price-analysis
 
-1. Clone git repo
+1. Clone Git Repo (Use Python 3.9.13 or Previous Version)
 
 2. Install required python modules using given command
 
